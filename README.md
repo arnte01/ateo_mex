@@ -3,7 +3,7 @@ Code for training DNNs models to classify microwell plate classifications.
 
 Done as part of KTH Master thesis work VT2023 by Arnold Teo (arnold_teo@hotmail.com) at Sandberg Lab KI.
 
-Master thesis: *coming soon*
+Master thesis: [Full text on KTH DiVA](https://kth.diva-portal.org/smash/record.jsf?dswid=-7828&pid=diva2%3A1777698&c=1&searchType=SIMPLE&language=en&query=Arnold+Teo&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 
 Sandberg GitHub: https://github.com/sandberg-lab/
 
